@@ -1,5 +1,10 @@
 Idées :
-- class Affichage Maladie / Ville (quand on clique dessus on a les infos)
+
+- class Affichage Maladie / Ville (quand on clique dessus on a les infos):
+	- fenêtre qui s'ouvre
+	- bouton fermer  la fenêtre
+	- infos des classes maladies et villes
+
 - class Maladie : 
 	- nom
 	- ⁠photo bactérie
@@ -8,6 +13,7 @@ Idées :
 	- ⁠type de maladie
 	- ⁠moyen de transmission
 	- ⁠indicateur propagation
+
 - class Ville :
 	- nb d'habitants
 	- pays, continent
@@ -16,6 +22,7 @@ Idées :
 	- proportion malades
 	- proportions morts
 	- villes connectées
+
 - base de donnée des villes et des maladies
 - curseur (souris personnalisée)
 - matrice (carte)
