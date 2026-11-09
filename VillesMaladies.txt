@@ -1,0 +1,58 @@
+Villes :
+Londres
+Paris
+Pékin
+LA
+Delhi
+Moscou
+Tokyo
+Jakarta
+Rio
+Ushuaia
+Ottawa
+Le Cap
+Téhéran
+Sydney
+Perth
+Le Caire
+Dakar
+Lima
+Lisbonne
+Alger
+Dubai
+Austin
+Séoul
+Anchorage
+New York
+Ebola
+Kampala
+...
+
+
+Maladies :
+
+- peste (plusieurs type : bubonique, noire…)
+- ⁠ebola
+- ⁠coronavirus
+- ⁠grippe (plusieurs type et plusieurs épidémies : espagnole, aviaire)
+- ⁠sars
+- ⁠sida
+- ⁠variole
+- ⁠malaria/paludisme
+- ⁠tuberculose
+- ⁠typhus
+- ⁠rougeole
+- ⁠fievre jaune
+- ⁠choléra
+- ⁠polio
+- ⁠hantavirus
+- ⁠dengue
+
+Pour chaque maladie :
+- nom
+- ⁠photo bacterie
+- ⁠histoire
+- ⁠description précise des symptômes
+- ⁠type de maladie
+- ⁠moyen de transmission
+- ⁠indicateur propagation
