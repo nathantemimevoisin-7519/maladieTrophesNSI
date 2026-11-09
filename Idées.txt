@@ -29,3 +29,26 @@ Idées :
 - utilisateur choisit ville de départ et la maladie
 - maladie se repend suivant flux (terrestres (proximité) ,aériens, maritimes)
 - utilisateur essaie d'arrêter la maladie en faisant des vaccins, des confinements, des créations d'hôpitaux…
+
+
+Idées de classes:
+	- class BaseDonnee:
+		+recuperer infos ville
+		+recuperer infos maladie
+	- class Infos:
+		liste villes
+		infos virus ??
+		stats --> dictionnaire
+		+propagation virus
+		+mettre à jour (ex : temps...)
+	- class Graphique:
+		+dessiner(carte, villes) --> points colorés pour chaque ville en fonction de l'evolution de la maladie ?
+		+verifier clic
+	- class Affiche:
+		fenetre --> rect
+		bouton fermer --> rect
+		texte infos
+		+fermer
+		+dessiner fenetre
+	- class Jeu:
+		boucles tec.
