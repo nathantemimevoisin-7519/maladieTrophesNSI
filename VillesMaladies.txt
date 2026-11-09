@@ -48,11 +48,4 @@ Maladies :
 - ⁠hantavirus
 - ⁠dengue
 
-Pour chaque maladie :
-- nom
-- ⁠photo bacterie
-- ⁠histoire
-- ⁠description précise des symptômes
-- ⁠type de maladie
-- ⁠moyen de transmission
-- ⁠indicateur propagation
+

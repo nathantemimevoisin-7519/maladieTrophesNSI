@@ -1,0 +1,24 @@
+Idées :
+- class Affichage Maladie / Ville (quand on clique dessus on a les infos)
+- class Maladie : 
+	- nom
+	- ⁠photo bactérie
+	- ⁠histoire
+	- ⁠description précise des symptômes
+	- ⁠type de maladie
+	- ⁠moyen de transmission
+	- ⁠indicateur propagation
+- class Ville :
+	- nb d'habitants
+	- pays, continent
+	- nb Malades
+	- nb Morts
+	- proportion malades
+	- proportions morts
+	- villes connectées
+- base de donnée des villes et des maladies
+- curseur (souris personnalisée)
+- matrice (carte)
+- utilisateur choisit ville de départ et la maladie
+- maladie se repend suivant flux (terrestres (proximité) ,aériens, maritimes)
+- utilisateur essaie d'arrêter la maladie en faisant des vaccins, des confinements, des créations d'hôpitaux…
