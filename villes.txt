@@ -1,0 +1,33 @@
+N'djamena	NDJ
+Le Caire	CAI
+Le Cap	CPT
+Nairobi	NBO
+Dakar	DKR
+Alger	ALG
+Los Angeles	LAX
+New York	JFK, LGA
+Ottawa	YOW
+Austin	AUS, GRB
+Anchorage	ANC
+Lima	LIM
+Rio	RBR, RIG, SDU
+Ushuaia	PUQ
+Asuncion	ASU
+Bangalore	BLR
+Delhi	DEL
+Tokyo	HND, NRT
+Bangkok	DMK,BKK
+Séoul	GMP, ICN
+Pékin	NAY,PEK
+Singapour	SIN
+Hong kong	HKG
+Jakarta	CGK
+Budapest	BUD
+Lisbonne	LIS
+Londres	LCY, LGW,LHR,LTN, STN
+Moscou	SVO,VKO, DME
+Paris	ORY, BVA, CDG
+Téhérent	IKA
+Dubai	DXK
+Sydney	SYD
+Perth	PER
